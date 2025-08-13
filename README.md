@@ -1,7 +1,5 @@
 <!-- Banner -->
-<div align="center">
-  <img src="https://yourusername.github.io/assets/banner.png" alt="Welcome banner" style="max-width: 100%;" />
-</div>
+
 
 <!-- Visitor Counter -->
 <div align="center"> 
@@ -44,7 +42,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,sql,wordpress,shopify,figma,canva,html,css,js,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,wordpress,figma,canva,html,css,js,github" />
 </p>
 
 ---
@@ -60,33 +58,3 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent" />
 </div>
 
----
-
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-> ⚠️ Make sure to update your workflows to enable the blog and snake animation features.
-
----
-
-Would you like me to:
-- Generate badge icons for specific tools (like WordPress or Canva)?
-- Help design a banner you can upload to your profile?
-- Assist with creating the GitHub workflows?
-
-Let me know, and I’ll walk you through those next.
