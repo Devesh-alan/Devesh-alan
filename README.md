@@ -1,11 +1,3 @@
-<!-- Banner -->
-
-
-<!-- Visitor Counter -->
-<div align="center"> 
-  <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" />
-</div>
 
 <!-- Animated Intro -->
 <h1 align="center">
@@ -42,7 +34,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,wordpress,figma,canva,html,css,js,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,wordpress,figma,html,css,js,github" />
 </p>
 
 ---
