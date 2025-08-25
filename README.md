@@ -1,4 +1,3 @@
-
 <!-- Animated Intro -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+a+Passionate+Developer;I+love+building+on+the+Web!" />
@@ -8,10 +7,11 @@
 
 - 💡 I love turning ideas into real-world products.
 - 🧠 Currently exploring backend optimizations and system design.
-- 🌱 Learning about headless CMS & eCommerce integrations.
+- 🌱 Learning about headless CMS, Salesforce & Cloud technologies.
 - 🛒 Experienced with WordPress and Shopify customizations.
 - 🎨 Skilled in Figma & Canva for UX/UI designs.
-- 💬 Ask me about C, C++, Python, SQL, Shopify, or WordPress!
+- ☁️ Passionate about leveraging Cloud solutions for scalable apps.
+- 💬 Ask me about C, C++, Python, SQL, Salesforce, Shopify, WordPress, or Cloud!
 
 ---
 
@@ -34,7 +34,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,wordpress,figma,html,css,js,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,salesforce,wordpress,figma,html,css,js,github,aws,gcp,azure" />
 </p>
 
 ---
@@ -49,4 +49,3 @@
 <div align="center">
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent" />
 </div>
-
